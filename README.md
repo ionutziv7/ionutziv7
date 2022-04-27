@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me - email: ionutziv7@protonmail.com
 
-## I have used the features on this awesome website and the git with tools such us:
+## I have used the features of GitHub and git with tools such us:
 - Git Bash - using git commands
 - GitHub Desktop
+- Github mobile application
 - Terminal 
 - Visual Studio Code using Source Control side menu and integrated terminal
 - Visual Studio Community 2019 and 2022
