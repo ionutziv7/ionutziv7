@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me - email: ionutziv7@protonmail.com
 
-## I came on github last year 
-And since then I started learning how to use the features on this awesome website <br>
-As well as learning how to use git via:
+## I have used the features on this awesome website and the git with tools such us:
 - Git Bash - using git commands
 - GitHub Desktop
 - Terminal 
